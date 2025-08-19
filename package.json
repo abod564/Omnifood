@@ -1,0 +1,16 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Abdelrahman Elfeky",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}
