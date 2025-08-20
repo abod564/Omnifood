@@ -1,10 +1,7 @@
 // TEST'S
 const me = "Abdelrahman Elfeky";
 const h1 = document.querySelector(".heading-1");
-const myage = 21;
-console.log("Hello World!");
-console.log(myage);
-console.log(h1);
+const myage = 22;
 
 // CURRENT YEAR
 const year = document.querySelector(".year");
